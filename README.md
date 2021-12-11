@@ -7,6 +7,7 @@ Examine those campaigns that encompass the initial criteria and compare their su
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+	![Theater_Outcomes_vs_Launch.png](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -21,3 +22,5 @@ Examine those campaigns that encompass the initial criteria and compare their su
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+
